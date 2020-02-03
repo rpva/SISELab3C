@@ -25,15 +25,7 @@ public class ExerciseC {
             pos++;
         }
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     static class Consumer extends Thread {
         private TaskList tasks;
         private int number;
